@@ -1,0 +1,29 @@
+body{
+    margin: 10px;
+    padding: 10px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    font-family: fantasy;
+}
+#container{
+    text-align: center;
+
+}
+h1{
+    font-size: 32px;
+    color: rgb(229, 183, 17);
+}
+p{
+    font-size: 18px;
+    color: blueviolet;
+    max-width: 500px;
+    margin: 0 auto;
+}
+img{
+    margin-top: 30px;
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px #896;
+}

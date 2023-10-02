@@ -1,0 +1,20 @@
+body{
+    margin: 5px;
+    display: flex;
+    position: relative;
+    justify-content:center;
+    
+
+}
+.circle{
+    height: 200px;
+    width: 200px;
+    background: #467;
+    display:grid;
+    justify-content: center;
+    align-items:center;
+}
+.button{
+    border-radius: 50px;
+    
+}
